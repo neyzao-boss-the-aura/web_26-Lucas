@@ -1,0 +1,21 @@
+body {
+    /*Pinta o fundo da tela*/
+    background: brown;
+}
+h1 {
+    /*Pinta o titulo (h1) e coloca no centro*/
+    color: red;
+    text-align: center;
+}
+/* O "." chama o class*/
+.atividade {
+    color: white;
+    background : yellow
+}
+a {
+    /*Pinta o texto(a), o fundo do texto de vermelho,depois o tamanho e a fonte da letra */
+    color: white;
+    background-color: red;
+    font-size: 36px;
+    font-family: Arial;
+}

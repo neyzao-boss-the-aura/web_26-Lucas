@@ -1,0 +1,20 @@
+/* Body background = trocar a cor de fundo*/
+body {
+    background-color: darkred;
+}
+/*Pinta o fonta da letra, coloca ela no centro e escolhe a fonte*/
+h1 {
+    color: yellow;
+    text-align: center;
+    font-family: Book Antiqua;
+}
+/* O "hover" serve para trocar de cor quando o mouse toca*/
+h1:hover {
+    color: black;
+}
+
+a {
+    text-decoration-line: none;
+    font-size: 32px;
+    font-weight: bold;
+}

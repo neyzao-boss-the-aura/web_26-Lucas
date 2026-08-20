@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: green;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    padding: 10px;
+    border-radius: 20px;
+    border: 3px solid black;
+    /*Eixo vertical - Eixo horizontal*/
+    margin: 10px 0px;
+}
+
+.container {
+    width: 100%;
+    height: 150px;
+    border: none;
+    background: black;
+    border-radius: 0;
+    margin-top: 0;
+    display: flex;
+    flex-direction: row;
+    justify_content: center;
+    text_align: center;
+}
+
+.menu {
+    width: 100px;
+    height: 100px;
+    background: darkred;
+    text_align: center;
+}
